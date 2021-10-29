@@ -25,3 +25,9 @@
 - Worldwide aviation network vulnerability analysis: a complex network approach
     - (https://www.researchgate.net/publication/289685187_Worldwide_aviation_network_vulnerability_analysis_a_complex_network_approach)
     - Pode ser interessante juntar este com o primeiro
+
+### Papers to Cite:
+- Coverage Definition
+  - https://d-nb.info/1104942143/34
+- Modularity Definition
+  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1482622/
